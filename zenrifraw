@@ -1,8 +1,8 @@
 --Keybinds
-_G.UnReanimateKey = "q" --The keybind for unreanimating.
-_G.ReanimateKey = "e" --The keybind for reanimating.
-_G.R6ToggleKey = "r" --The keybind for toggling R15 to R6.
-_G.GodmodeToggleKey = "t" --The keybind for toggling godmode.
+_G.UnReanimateKey = "p" --The keybind for unreanimating.
+_G.ReanimateKey = "p" --The keybind for reanimating.
+_G.R6ToggleKey = "p" --The keybind for toggling R15 to R6.
+_G.GodmodeToggleKey = "p" --The keybind for toggling godmode.
 --Options
 _G.CharacterBug = false --Set to true if your uppertorso floats when you use godmode with R15 To R6.
 _G.GodMode = true --Set to true if you want godmode.
